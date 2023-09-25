@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![ducky0222's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducky0222&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ducky0222)](https://solved.ac/ducky0222)
